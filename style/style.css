@@ -1,3 +1,9 @@
 form a {
     margin-left: 5px;
 }
+.flex {
+    display:flex;
+}
+body {
+    padding: 10px;
+}
